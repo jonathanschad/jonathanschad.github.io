@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/klausurtrainerBeta/static/css/main.20f4542d.chunk.css",
-    "main.js": "/klausurtrainerBeta/static/js/main.e278dff5.chunk.js",
-    "main.js.map": "/klausurtrainerBeta/static/js/main.e278dff5.chunk.js.map",
+    "main.js": "/klausurtrainerBeta/static/js/main.3544bc5b.chunk.js",
+    "main.js.map": "/klausurtrainerBeta/static/js/main.3544bc5b.chunk.js.map",
     "runtime-main.js": "/klausurtrainerBeta/static/js/runtime-main.a6b1874a.js",
     "runtime-main.js.map": "/klausurtrainerBeta/static/js/runtime-main.a6b1874a.js.map",
     "static/css/2.83342f34.chunk.css": "/klausurtrainerBeta/static/css/2.83342f34.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.83342f34.chunk.css",
     "static/js/2.0e1d45a3.chunk.js",
     "static/css/main.20f4542d.chunk.css",
-    "static/js/main.e278dff5.chunk.js"
+    "static/js/main.3544bc5b.chunk.js"
   ]
 }
