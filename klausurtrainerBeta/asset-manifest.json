@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/klausurtrainerBeta/static/css/main.20f4542d.chunk.css",
-    "main.js": "/klausurtrainerBeta/static/js/main.78de5d05.chunk.js",
-    "main.js.map": "/klausurtrainerBeta/static/js/main.78de5d05.chunk.js.map",
-    "runtime-main.js": "/klausurtrainerBeta/static/js/runtime-main.7edf2211.js",
-    "runtime-main.js.map": "/klausurtrainerBeta/static/js/runtime-main.7edf2211.js.map",
+    "main.js": "/klausurtrainerBeta/static/js/main.e278dff5.chunk.js",
+    "main.js.map": "/klausurtrainerBeta/static/js/main.e278dff5.chunk.js.map",
+    "runtime-main.js": "/klausurtrainerBeta/static/js/runtime-main.a6b1874a.js",
+    "runtime-main.js.map": "/klausurtrainerBeta/static/js/runtime-main.a6b1874a.js.map",
     "static/css/2.83342f34.chunk.css": "/klausurtrainerBeta/static/css/2.83342f34.chunk.css",
-    "static/js/2.3698b637.chunk.js": "/klausurtrainerBeta/static/js/2.3698b637.chunk.js",
-    "static/js/2.3698b637.chunk.js.map": "/klausurtrainerBeta/static/js/2.3698b637.chunk.js.map",
-    "static/js/3.816f264c.chunk.js": "/klausurtrainerBeta/static/js/3.816f264c.chunk.js",
-    "static/js/3.816f264c.chunk.js.map": "/klausurtrainerBeta/static/js/3.816f264c.chunk.js.map",
+    "static/js/2.0e1d45a3.chunk.js": "/klausurtrainerBeta/static/js/2.0e1d45a3.chunk.js",
+    "static/js/2.0e1d45a3.chunk.js.map": "/klausurtrainerBeta/static/js/2.0e1d45a3.chunk.js.map",
+    "static/js/3.d05791b4.chunk.js": "/klausurtrainerBeta/static/js/3.d05791b4.chunk.js",
+    "static/js/3.d05791b4.chunk.js.map": "/klausurtrainerBeta/static/js/3.d05791b4.chunk.js.map",
     "index.html": "/klausurtrainerBeta/index.html",
     "static/css/2.83342f34.chunk.css.map": "/klausurtrainerBeta/static/css/2.83342f34.chunk.css.map",
     "static/css/main.20f4542d.chunk.css.map": "/klausurtrainerBeta/static/css/main.20f4542d.chunk.css.map",
-    "static/js/2.3698b637.chunk.js.LICENSE.txt": "/klausurtrainerBeta/static/js/2.3698b637.chunk.js.LICENSE.txt"
+    "static/js/2.0e1d45a3.chunk.js.LICENSE.txt": "/klausurtrainerBeta/static/js/2.0e1d45a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7edf2211.js",
+    "static/js/runtime-main.a6b1874a.js",
     "static/css/2.83342f34.chunk.css",
-    "static/js/2.3698b637.chunk.js",
+    "static/js/2.0e1d45a3.chunk.js",
     "static/css/main.20f4542d.chunk.css",
-    "static/js/main.78de5d05.chunk.js"
+    "static/js/main.e278dff5.chunk.js"
   ]
 }
