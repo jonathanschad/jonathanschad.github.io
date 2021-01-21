@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/klausurtrainer/static/css/main.20f4542d.chunk.css",
+    "main.js": "/klausurtrainer/static/js/main.78de5d05.chunk.js",
+    "main.js.map": "/klausurtrainer/static/js/main.78de5d05.chunk.js.map",
+    "runtime-main.js": "/klausurtrainer/static/js/runtime-main.7eeb3212.js",
+    "runtime-main.js.map": "/klausurtrainer/static/js/runtime-main.7eeb3212.js.map",
+    "static/css/2.83342f34.chunk.css": "/klausurtrainer/static/css/2.83342f34.chunk.css",
+    "static/js/2.3698b637.chunk.js": "/klausurtrainer/static/js/2.3698b637.chunk.js",
+    "static/js/2.3698b637.chunk.js.map": "/klausurtrainer/static/js/2.3698b637.chunk.js.map",
+    "static/js/3.816f264c.chunk.js": "/klausurtrainer/static/js/3.816f264c.chunk.js",
+    "static/js/3.816f264c.chunk.js.map": "/klausurtrainer/static/js/3.816f264c.chunk.js.map",
+    "index.html": "/klausurtrainer/index.html",
+    "static/css/2.83342f34.chunk.css.map": "/klausurtrainer/static/css/2.83342f34.chunk.css.map",
+    "static/css/main.20f4542d.chunk.css.map": "/klausurtrainer/static/css/main.20f4542d.chunk.css.map",
+    "static/js/2.3698b637.chunk.js.LICENSE.txt": "/klausurtrainer/static/js/2.3698b637.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7eeb3212.js",
+    "static/css/2.83342f34.chunk.css",
+    "static/js/2.3698b637.chunk.js",
+    "static/css/main.20f4542d.chunk.css",
+    "static/js/main.78de5d05.chunk.js"
+  ]
+}
