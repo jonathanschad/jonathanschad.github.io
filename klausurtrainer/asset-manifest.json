@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/klausurtrainer/static/css/main.ead47e3f.chunk.css",
-    "main.js": "/klausurtrainer/static/js/main.25161545.chunk.js",
-    "main.js.map": "/klausurtrainer/static/js/main.25161545.chunk.js.map",
+    "main.js": "/klausurtrainer/static/js/main.7490a467.chunk.js",
+    "main.js.map": "/klausurtrainer/static/js/main.7490a467.chunk.js.map",
     "runtime-main.js": "/klausurtrainer/static/js/runtime-main.f9afff6b.js",
     "runtime-main.js.map": "/klausurtrainer/static/js/runtime-main.f9afff6b.js.map",
     "static/css/2.83342f34.chunk.css": "/klausurtrainer/static/css/2.83342f34.chunk.css",
-    "static/js/2.59b2cb4d.chunk.js": "/klausurtrainer/static/js/2.59b2cb4d.chunk.js",
-    "static/js/2.59b2cb4d.chunk.js.map": "/klausurtrainer/static/js/2.59b2cb4d.chunk.js.map",
+    "static/js/2.da58fb20.chunk.js": "/klausurtrainer/static/js/2.da58fb20.chunk.js",
+    "static/js/2.da58fb20.chunk.js.map": "/klausurtrainer/static/js/2.da58fb20.chunk.js.map",
     "static/js/3.ef5892f7.chunk.js": "/klausurtrainer/static/js/3.ef5892f7.chunk.js",
     "static/js/3.ef5892f7.chunk.js.map": "/klausurtrainer/static/js/3.ef5892f7.chunk.js.map",
     "index.html": "/klausurtrainer/index.html",
     "static/css/2.83342f34.chunk.css.map": "/klausurtrainer/static/css/2.83342f34.chunk.css.map",
     "static/css/main.ead47e3f.chunk.css.map": "/klausurtrainer/static/css/main.ead47e3f.chunk.css.map",
-    "static/js/2.59b2cb4d.chunk.js.LICENSE.txt": "/klausurtrainer/static/js/2.59b2cb4d.chunk.js.LICENSE.txt"
+    "static/js/2.da58fb20.chunk.js.LICENSE.txt": "/klausurtrainer/static/js/2.da58fb20.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f9afff6b.js",
     "static/css/2.83342f34.chunk.css",
-    "static/js/2.59b2cb4d.chunk.js",
+    "static/js/2.da58fb20.chunk.js",
     "static/css/main.ead47e3f.chunk.css",
-    "static/js/main.25161545.chunk.js"
+    "static/js/main.7490a467.chunk.js"
   ]
 }
